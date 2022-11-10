@@ -10,6 +10,7 @@
 		"web": "expo start --web"
 	},
 	"dependencies": {
+		"eas-cli": "^2.6.0",
 		"expo": "~47.0.3",
 		"expo-splash-screen": "~0.17.4",
 		"expo-status-bar": "~1.4.2",
