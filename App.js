@@ -7,12 +7,7 @@ import Header from './components/Header';
 
 export default function App() {
 	const [hidden, setHidden] = useState(true)
-	const [listItems, setListItems] = useState([
-		{ id: 'item1', descricao: 'Pão', quantity: 6 },
-		{ id: 'item2', descricao: 'Leite', quantity: 2 },
-		{ id: 'item3', descricao: 'Arroz', quantity: 1 },
-		{ id: 'item4', descricao: 'Biscoito', quantity: 3 },
-	]);
+	const [listItems, setListItems] = useState([]);
 
 
 	const addItem = (item) => {
