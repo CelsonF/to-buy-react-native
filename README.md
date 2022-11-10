@@ -59,3 +59,8 @@ A aplicação está funcionando corretamente?
 
 A aplicação está completa?
 **Não, porque com TCC não priorizei o desenvolvimento deste trabalho**
+
+Abaixo link do Snack
+<script async src="https://snack.expo.dev/embed.js"></script>
+
+<iframe data-snack-id="@celsonfernando/github.com-celsonf-to-buy-react-native" data-snack-platform="android" data-snack-preview="true" data-snack-theme="light" style="overflow:hidden;background:#F9F9F9;border:1px solid var(--color-border);border-radius:4px;height:505px;width:100%"></iframe>
